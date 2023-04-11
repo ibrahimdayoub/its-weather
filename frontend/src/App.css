@@ -1,0 +1,25 @@
+.app{
+  min-height: 100vh;
+  background-image: url('./Background.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 1080px;
+  margin:auto;
+}
+
+.no-data{
+  padding: 10px 5px;
+  line-height: 50px;
+  text-align: center;
+  font-size: 32px;
+  max-width: 600px;
+  border-radius: 6px;
+  box-shadow: 10px -2px 20px 2px rgb(0 0 0 / 30%);
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  margin: 200px auto 0 auto;
+}
